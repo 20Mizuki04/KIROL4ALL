@@ -1,0 +1,169 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 00:48:45 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 00:48:50 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 00:48:50 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 00:48:50 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 00:48:50 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-16 00:48:50 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 00:48:50 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 00:48:50 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 00:48:50 #8 type] 
+Type domain.Encargado is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 01:05:26 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 01:05:30 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 01:05:30 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 01:05:30 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 01:05:30 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-16 01:05:30 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 01:05:30 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 01:05:30 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 01:05:30 #8 type] 
+Type domain.Encargado is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 01:10:20 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 01:10:23 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 01:10:23 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 01:10:23 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 01:10:23 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-16 01:10:23 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 01:10:23 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 01:10:23 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 01:10:23 #8 type] 
+Type domain.Encargado is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 09:40:48 #1 server] 
+Server on port 6136 has started by 16836@DESKTOP-HSBRNNI
+
+[2025-05-16 09:41:06 #2 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 16836@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 09:41:06 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 09:41:06 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 09:41:06 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 09:41:06 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-16 09:41:06 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 09:41:06 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 09:41:06 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 09:41:06 #8 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-16 10:52:15 #3 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 16836@DESKTOP-HSBRNNI
+
