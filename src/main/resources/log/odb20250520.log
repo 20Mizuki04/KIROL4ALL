@@ -1,0 +1,220 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 20:19:08 #1 server] 
+Server on port 6136 has started by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 20:19:11 #2 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 20:19:12 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-20 20:19:12 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-20 20:19:12 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-20 20:19:12 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-20 20:19:12 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-20 20:19:12 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-20 20:19:12 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-20 20:19:12 #8 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-20 20:19:22 #3 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 21:20:55 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-20 21:20:58 #4 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 21:20:59 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-20 21:20:59 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-20 21:20:59 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-20 21:20:59 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-20 21:20:59 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-20 21:20:59 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-20 21:20:59 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-20 21:20:59 #8 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-20 21:21:09 #5 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 21:28:26 #6 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 21:29:09 #7 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 21:29:32 #8 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 21:30:43 #9 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 22:15:51 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-20 22:15:55 #10 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 22:15:55 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-20 22:15:55 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-20 22:15:55 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-20 22:15:55 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-20 22:15:55 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-20 22:15:55 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-20 22:15:55 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-20 22:15:55 #8 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-20 22:16:10 #11 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 22:17:45 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-20 22:17:47 #12 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-20 22:17:47 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-20 22:17:47 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-20 22:17:47 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-20 22:17:47 #4 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-20 22:17:47 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-20 22:17:47 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-20 22:17:47 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-20 22:17:47 #8 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-20 22:17:56 #13 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 22:22:17 #14 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 22:22:38 #15 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 22:22:44 #16 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 22:23:35 #17 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 23:08:13 #18 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 23:08:45 #19 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is closed by 9328@DESKTOP-HSBRNNI
+
+[2025-05-20 23:09:20 #20 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\db\src\main\resources\rides.temp' is opened by 9328@DESKTOP-HSBRNNI
+

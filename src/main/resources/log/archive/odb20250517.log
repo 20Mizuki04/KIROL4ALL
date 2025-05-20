@@ -1,0 +1,71 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-17 20:07:54 #1 store] 
+Database 'C:\Users\Ilargi\Desktop\IS-1\PROYECTO GLOBAL\Implementacion\Proyecto_KIROL4ALL\Kirol4All_IlargiMatilde\src\main\resources\rides.temp' is opened by 15144@DESKTOP-HSBRNNI
+
+[2025-05-17 20:07:55 #2 type.registry] 
+New type domain.Socio
+
+[2025-05-17 20:07:55 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-17 20:07:55 #4 type.registry] 
+New type domain.Factura
+
+[2025-05-17 20:07:55 #5 type.registry] 
+New type domain.Reserva
+
+[2025-05-17 20:07:55 #6 type.registry] 
+New type domain.TarjetaCuenta
+
+[2025-05-17 20:07:55 #7 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-17 20:07:55 #8 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-17 20:07:55 #9 type.registry] 
+New type domain.Sesion
+
+[2025-05-17 20:07:55 #10 type] 
+Type domain.TarjetaCuenta is not enhanced.
+
+[2025-05-17 20:07:55 #11 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-17 20:07:55 #12 type.registry] 
+New type domain.Sala
+
+[2025-05-17 20:07:55 #13 type.registry] 
+New type domain.Actividad
+
+[2025-05-17 20:07:55 #14 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-17 20:07:55 #15 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-17 20:07:55 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-17 20:07:55 #17 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-05-17 20:07:55 #18 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-05-17 20:08:12 #19 type.registry] 
+New type domain.Encargado
+
+[2025-05-17 20:08:12 #20 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-05-17 20:08:46 #21 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-05-17 20:08:46 #22 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-05-17 20:08:46 #23 type.registry] 
+New type com.objectdb.o.RFV
+

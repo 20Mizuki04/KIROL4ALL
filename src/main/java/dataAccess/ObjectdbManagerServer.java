@@ -51,7 +51,7 @@ public class ObjectdbManagerServer extends JDialog {
 
 
 	public ObjectdbManagerServer() {
-	    
+
 		setTitle("objectDBManagerServer: running the database server");
 		setBounds(100, 100, 486, 180);
 		getContentPane().setLayout(new BorderLayout());
@@ -101,6 +101,7 @@ public class ObjectdbManagerServer extends JDialog {
 		}
 		
 		ConfigXML c=ConfigXML.getInstance();
+		
 		
 		if (c.isDatabaseLocal()) {
 			textArea.append("\nERROR, the database is configured as local");
